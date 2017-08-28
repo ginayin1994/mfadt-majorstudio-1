@@ -1,12 +1,19 @@
 # MFADT Major Studio 1
 
-## Syllabus
-Week 1:
-* Intros and objectives
-* Five in Five
+## Students List
 
-Week 2:
-
-### Class Notes and References
-### Your homework assignments
-### Feedback during class critiques
+* [Julie Byers](#)
+* [Li Chen](#)
+* [Kaiwei Hu](#)
+* [Rodrigo Nava](#)
+* [Nicholas Paganelli](#)
+* [Maddy Siriouthay](#)
+* [Yanbin Song](#)
+* [Iris Yu Tian](#)
+* [Gina Xiaoyan Yin](#)
+* [Philipp Schmitt](#)
+* [Jacqueline Wu](#)
+* [Yan Wu](#)
+* [Evan Zhaohong Xia](#)
+* [Xiaoyan Yin](#)
+* [Youchun Zhang](#)
