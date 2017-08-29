@@ -3,6 +3,7 @@
 
 ## Assignment guidelines
 * For the next five days, create one project per day. Each project must be conceptualized, produced and documented in a single day. 
+* The more experimental the better.
 * Monday is Labor Day (no class) but post a link with documentation of your work on Github by EOD on Monday
 
 ## Presentation guidelines

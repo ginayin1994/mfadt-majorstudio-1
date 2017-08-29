@@ -1,7 +1,7 @@
-# MFADT Major Studio 1 - Student Work
+# MFADT Major Studio 1 Assignments
 
-This is where you'll find all the students' works from this class.
+A list of assignments
 
-* link to a forked repo
-* link to a forked repo
-* link to a forked repo
+* [5 in 5](tree/master/Assignments)
+* [(In class) Brainstorm around interest areas and research domains](tree/master/Assignments)
+
