@@ -1,5 +1,7 @@
 # MFADT Major Studio 1
 
+Welcome to Parsons, MFA Design and Technology Major Studio 1, Session B. Taught by [Fei Liu](../).
+
 ## Students List
 
 * [Julie Byers](#)
@@ -17,3 +19,7 @@
 * [Evan Zhaohong Xia](#)
 * [Gina Xiaoyan Yin](#)
 * [Youchun Zhang](#)
+
+## [Assignments](assignments)
+
+## [Additional Readings](additional-readings)
