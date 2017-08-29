@@ -20,6 +20,6 @@ Welcome to Parsons, MFA Design and Technology Major Studio 1, Session B. Taught 
 * [Gina Xiaoyan Yin](#)
 * [Youchun Zhang](#)
 
-## [Assignments](assignments)
+## [Assignments](Assignments/README.md)
 
 ## [Additional Readings](additional-readings)

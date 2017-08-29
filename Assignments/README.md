@@ -3,5 +3,5 @@
 A list of assignments
 
 * [5 in 5](five-in-five.md)
-* [(In class) Brainstorm around interest areas and research domains](tree/master/Assignments)
+* [(In class) Brainstorm around interest areas and research domains](brainstorm-domains.md)
 
