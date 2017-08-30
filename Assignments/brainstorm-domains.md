@@ -4,7 +4,7 @@
 ## Resources
 * [Slides for class](https://swipe.to/8079dr)
 * [The Craft of Research (my abriged version)](https://github.com/binaricorn/mfadt-majorstudio-1/blob/master/Additional%20Readings/The%20Craft%20of%20Research%20-%20Abridged.pdf)
-* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+* [Want to make your Github blog a little prettier? Look at this Markdown reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 
 ## Homework guidelines
 * Read through: 3.3.1 - 3.3.6, “Ask about the History of Your Topic” and onwards
