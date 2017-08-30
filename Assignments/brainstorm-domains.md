@@ -14,4 +14,4 @@
 * Average time this assignment should take: no more than 30 min
 
 * A snippet I like from Craft of Research:
-->![](../craft-of-research-3.2.png)<-
+![](https://github.com/binaricorn/mfadt-majorstudio-1/blob/master/Assignments/craft-of-research-3.2.png)
