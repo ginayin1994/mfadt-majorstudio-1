@@ -7,7 +7,6 @@ Welcome to Parsons, MFA Design and Technology Major Studio 1, Session B. Taught 
 * [Julie Byers](#)
 * [Li Chen](#)
 * [Maria del Pilar Gimenez Burlo](#)
-* [Kaiwei Hu](#)
 * [Rodrigo Nava](#)
 * [Nicholas Paganelli](#)
 * [Philipp Schmitt](#)
@@ -22,4 +21,4 @@ Welcome to Parsons, MFA Design and Technology Major Studio 1, Session B. Taught 
 
 ## [Assignments](Assignments/README.md)
 
-## [Additional Readings](additional-readings)
+## [Additional Readings](Additional%20Readings)
