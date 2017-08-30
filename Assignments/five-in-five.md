@@ -8,7 +8,7 @@
 * Monday is Labor Day (no class) but post a link with documentation of your work on Github by EOD on Monday
 
 ## Presentation guidelines
-* Wednesday, 9/6
+* On Wednesday, 9/6
 * 7 minutes presentation each person
 * 30 minutes group discussion afterwards
 
