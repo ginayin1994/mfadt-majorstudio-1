@@ -12,3 +12,6 @@
 * **Add revised or improved versions of your concepts on your brainstorm-domains blog post**
 * *Post a photo of your post-it notes*
 * Average time this assignment should take: no more than 30 min
+
+* A snippet I like from Craft of Research:
+->![](craft-of-research-3.2.png)<-
