@@ -9,9 +9,10 @@
 ## Homework guidelines
 * Read through: 3.3.1 - 3.3.6 in [The Craft of Research (my abriged version)](https://github.com/binaricorn/mfadt-majorstudio-1/blob/master/Additional%20Readings/The%20Craft%20of%20Research%20-%20Abridged.pdf)
 * Then try 3.4.1 - 3.4.2 with your concepts.
-* **Add revised or improved versions of your concepts on your brainstorm-domains blog post**
+* Add revised or improved versions of your concepts on your brainstorm-domains blog post
 * Post a photo of your post-it notes
-* Average time this assignment should take: no more than 30 min
+* Delete the text on your forked version of brainstorm-domains.md, and post your homework on it. Push that up. Unless you're familiar with using Terminal with Github, use the Github site instead.
+
 
 * A snippet I like from Craft of Research:
 ![](https://github.com/binaricorn/mfadt-majorstudio-1/blob/master/Assignments/craft-of-research-3.2.png)
