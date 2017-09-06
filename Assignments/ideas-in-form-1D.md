@@ -3,22 +3,7 @@
 
 ## Assignment guidelines
 * A creative writing assignment about this project. Who, what, when, how, why? Identify and research the central domains involved with the project.
-* Story and research presentation describing why you are studying that domain.
-
-#### Speculative:
-* A character-study on your idea.
-* Who/what are it’s friends? It’s enemies?
-* What does it want? What are it’s strengths? It’s weaknesses?
-* When did it/will it become something people were/are aware of?
-* How is it used?
-* Why does it exist?
-
-#### User-scenario:
-* Who is your project’s or product’s user?
-* What are their goals and motivations?
-* When in their life will they find your project useful?
-* How will your project help them achieve those?
-* Why will they chose your idea over what’s already out there?
+* Story and research presentation describing why you are studying that domain. The research presentation should include these: 1) Show expanded mind map of domains, 2) Pick a few central ones and research deep into them. 3) Describe why you are studying them, 4) List communities of practice: who else is studying or making art/design/tech about these domains?
 
 ## Presentation guidelines
 * On Monday, 9/11
