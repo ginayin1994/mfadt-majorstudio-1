@@ -15,8 +15,8 @@ Welcome to Parsons, MFA Design and Technology Major Studio 1, Session B. Taught 
 * [Iris Yu Tian](https://github.com/iristy318/mfadt-majorstudio-1/tree/master/Assignments)
 * [Jacqueline Wu](https://github.com/jacqswu/mfadt-majorstudio-1/tree/master/Assignments)
 * [Bella Yan Wu](https://github.com/Bella-WU/mfadt-majorstudio-1/tree/master/Assignments)
-* [Evan Zhaohong Xia](https://github.com/xiaz971/mfadt-majorstudio-1)
-* [Gina Xiaoyan Yin](https://github.com/ginayin1994/mfadt-majorstudio-1/master/Assignments)
+* [Evan Zhaohong Xia](https://github.com/xiaz971/mfadt-majorstudio-1/tree/master/Assignments)
+* [Gina Xiaoyan Yin](https://github.com/ginayin1994/mfadt-majorstudio-1/tree/master/Assignments)
 * [Ray You](https://github.com/recfreq/mfadt-majorstudio-1/tree/master/Assignments)
 * [Youchun Zhang](https://github.com/youozhan/mfadt-majorstudio-1/tree/master/Assignments)
 

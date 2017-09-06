@@ -11,13 +11,9 @@ For the next 3 weeks we’ll be working from 1D to 4D to explore how the form yo
 * the experience created.
 
 Pick one project from your 5-in-5 assignment and make it your thematic focus for the next 4 projects. 
-Think about: 
-* the message you wanted to communicate
-* the feeling you wanted it to give
-* the topic you want to do more research on
-* the series of questions that arose while you were making it
+Think about:  the message you wanted to communicate, the feeling you wanted it to give, the topic you want to do more research on, and the series of questions that arose while you were making it
 
-* 1D Narratives
+* [1D Narratives](ideas-in-form-1D.md)
 * 2D Flatland
 * 3D Tangibles
 * 4D Time
