@@ -8,3 +8,5 @@
 ## Presentation guidelines
 * On Monday, 9/11
 * 5 minutes presentation each person
+
+https://docs.google.com/presentation/d/1vA5KUpOCQDV8-FL0qA8f1G99mVeXt_VvKSxm9T3FmCE/edit#slide=id.gc6f75fceb_0_0
