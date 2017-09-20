@@ -1,5 +1,6 @@
 # Ideas in Form - 1D Narratives
 [Official project brief](https://docs.google.com/a/newschool.edu/document/d/1g2bfUFsO3ycpkBmhfYAV1vCq5iOH0ZaZ-rptcom11W8/edit?usp=sharing)
+[Swipe slides](https://swipe.to/2159dt)
 
 ## Assignment guidelines
 * A creative writing assignment about this project. Who, what, when, how, why? Identify and research the central domains involved with the project.

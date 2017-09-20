@@ -7,7 +7,6 @@ Welcome to Parsons, MFA Design and Technology Major Studio 1, Session B. Taught 
 * [Julie Byers](https://github.com/byerj839/mfadt-majorstudio-1)
 * [Li Chen](https://github.com/chenlichenli/mfadt-majorstudio-1)
 * [Maria del Pilar Gimenez Burlo](https://github.com/PiliGB/mfadt-majorstudio-1/tree/master/Assignments)
-* [Rodrigo Nava](https://github.com/rodrigonava/mfadt-majorstudio-1)
 * [Nicholas Paganelli](https://github.com/NJPaganelli/mfadt-majorstudio-1/tree/master/Assignments)
 * [Philipp Schmitt](https://github.com/philippschmitt/mfadt-majorstudio-1/tree/master/Assignments)
 * [Maddy Siriouthay](https://github.com/madsiri/mfadt-majorstudio-1/tree/master/Assignments)

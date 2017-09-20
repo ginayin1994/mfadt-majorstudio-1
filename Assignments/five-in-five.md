@@ -1,5 +1,6 @@
 # 5 in 5
 [Project brief](https://docs.google.com/a/newschool.edu/document/d/1LOWQXv9i27Uj8eECxLeZi66yjTRcqk260O4kw_98eOc/edit?usp=sharing)
+[Swipe slides](https://swipe.to/8079dr)
 
 ## Assignment guidelines
 * For the next five days, create one project per day. Each project must be conceptualized, produced and documented in a single day. 

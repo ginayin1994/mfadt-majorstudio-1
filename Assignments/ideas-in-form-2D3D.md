@@ -1,5 +1,6 @@
 # Ideas in Form - 2D and 3D 
 [Official project brief](https://docs.google.com/a/newschool.edu/document/d/1g2bfUFsO3ycpkBmhfYAV1vCq5iOH0ZaZ-rptcom11W8/edit?usp=sharing)
+[Swipe slides](https://swipe.to/6820dt)
 
 ## Assignment guidelines
 * Continue exploring your domain/concept in 2D and 3D.
