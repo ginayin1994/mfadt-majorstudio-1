@@ -16,8 +16,8 @@ Think about:  the message you wanted to communicate, the feeling you wanted it t
 
 * [1D Narratives](ideas-in-form-1D.md)
 * [2D Flatland](ideas-in-form-2D3D.md)
-* 3D Tangibles
-* 4D Time
+* [3D Tangibles](ideas-in-form-2D3D.md)
+* [4D Time](ideas-in-form-4D.md)
 * [Reading] Donella Meadows, Leverage Points, Places to Intervene is a System
 * 5D Instruction Sets for Strangers
 #### Midterms
